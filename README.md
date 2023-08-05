@@ -1,6 +1,6 @@
 # SQL_queries
 ## __Расчеты продуктовых метрик с помощью запросов на SQL, СУБД PostgreSQL.__
-
+### _*Внутри файлов с запросами задокументированы полные условия задач_
 ## __BD schema:__
 ### __courier_actions:__
 * __action: CHARACTER VARYING__
